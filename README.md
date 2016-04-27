@@ -7,6 +7,8 @@ git clone https://github.com/RomanHristofor/ExpressJS.git
 
 # Run
 
-node main.js
+1. npm install 
+
+2. node main.js
 
 Site will be available at http://127.0.0.1:3000
