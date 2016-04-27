@@ -3,7 +3,7 @@ This code consists of a single-page working on the framework Express.js with the
 
 # Installation
 
-git clone https://github.com/RomanHristofor/Express.git
+git clone https://github.com/RomanHristofor/ExpressJS.git
 
 # Run
 
